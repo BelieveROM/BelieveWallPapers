@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">Sourcery Wallpapers</string>
-    <string name="title_activity_wallpaper">Sourcery WallPapers</string>
+    <string name="app_name">Believe Wallpapers</string>
+    <string name="title_activity_wallpaper">Believe WallPapers</string>
     <string name="back">Previous</string>
     <string name="next">Next</string>
     <string name="page">Page: </string>
